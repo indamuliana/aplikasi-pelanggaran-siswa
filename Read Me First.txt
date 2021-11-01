@@ -1,0 +1,53 @@
+MOHON DIBACA!
+
+
+
+
+VERSI 
+Sistem ini menggunakan "MySQLi query", 
+pastikan database server anda support mysqli.
+
+
+A. DEMO PROGRAMn(APLIKASI) DENGAN DATABASE YANG ADA:
+
+1. Login administrator => 
+username : admin 
+password : admin
+
+
+2. Login guru BK => username : gurubk
+ password : gurubk
+3. Login orang tua/siswa => 
+username : ilham 
+password : ilham
+
+
+4. Login kepala sekolah => 
+username : kepsek
+ password : kepsek
+ 
+
+B. INSTALASI SISTEM PADA LOCAL COMPUTER:
+
+1. Buka XAMPP jika menggunakan XAMPP
+
+2. Aktifkan web server (apache)
+
+3. Aktifkan servis database (MySQL / MariaDB)
+
+4. Paste folder pembinaan_karakter dan semua isinya ke dalam htdocs
+
+5. Buka localhost/phpmyadmin pada web browser
+
+6. Buat database dengan nama pembinaan_karakter
+
+7. Import database ke database pembinaan_karakter baru yang dibuat
+   (db ada pada folder database dalam folder pembinaan_karakter)
+
+8. Jalankan sistem dengan mengetikkan localhost/pembinaan_karakter pada web browser
+
+9. JIKA SISTEM INGIN DIGUNAKAN DAN DIISI DENGAN DATA REAL,
+   MAKA HAPUS SEMUA DATA pada tabel "guru" dan lain-lain (JANGAN HAPUS TABEL, TAPI DATANYA)
+   
+
+NOTE : KHUSUS TABEL USER, SISAKAN DATA ADMIN, AGAR TETAP DAPAT LOGIN SEBAGAI ADMINISTRATOR.

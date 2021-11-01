@@ -1,0 +1,17 @@
+LANGKAH ALUR PENGGUNAAN SISTEM :
+
+1. Login sebagai admin(Gerakan Disiplin Nasional)
+2. Masukkan data guru
+
+3. Masukkan data siswa
+4. Masukkan data rayon
+5. Masukkan data jurusan
+
+6. Masukkan data kelas
+
+7. Buat akun user untuk guru BK, kepala sekolah, siswa
+
+8. Masukkan tahun ajaran (Ada pada halaman home pojok kanan atas)
+
+9. Masukkan master data kategori pelanggaran, sub kategori pelanggaran
+10.Masukan master data prestasi
